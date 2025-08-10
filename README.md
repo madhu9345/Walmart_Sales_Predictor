@@ -1,4 +1,6 @@
 Walmart Sales Predictor
+
+
 📌 Overview
 The Walmart Sales Predictor is a machine learning project designed to forecast sales for Walmart stores based on historical data, seasonal patterns, and promotional events. This model helps in decision-making for inventory management, marketing strategies, and store planning.
 
