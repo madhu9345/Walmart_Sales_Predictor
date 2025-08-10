@@ -65,10 +65,6 @@ Model training using algorithms like:
 
 Random Forest
 
-XGBoost
-
-Linear Regression
-
 Best model selected based on evaluation metrics (R², RMSE, MAE).
 
 📷 Screenshots
